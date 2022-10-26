@@ -1,0 +1,68 @@
+body{
+	font-family: Verdana;
+	background-color: lightgrey;
+	font-size: 14px;
+}
+
+.container{
+	border: 1px solid black;
+	background-color: lightblue;
+	width: 500px;
+	margin: auto;
+}
+
+.header{
+	background-color: lightyellow;
+	height: 75px;
+	background-image: url(header.png);
+	background-size: 500px;
+	font-size: 50px;
+	padding-top: 10px;
+	padding-left: 15px;
+	color: darkcyan;
+	overflow: hidden;
+}
+
+.headerimg{
+	width: 500px;
+}
+
+.menu{
+	background-color: pink;
+	height: 25px;
+	padding-left: 20px;
+	padding-top: 8px;
+	font-size: 12px;
+}
+
+.body{
+	background-color: lightgreen;
+	height: 250px;
+	padding: 20px;
+}
+
+.footer{
+	background-color: purple;
+	color: white;
+	height: 20px;
+	text-align: center;
+	font-size: 11px;
+	padding: 20px;
+}
+
+.therockdiv{
+	width: 140px;
+	overflow: hidden;
+	padding: 5px;
+}
+
+.therockbild{
+	float: right;
+	width: 140px;
+}
+
+.brödtext{
+	float: left;
+	width: 300px;
+	padding: 5px;
+}
