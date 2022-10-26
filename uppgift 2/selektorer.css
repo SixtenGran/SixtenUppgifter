@@ -1,0 +1,44 @@
+body{
+	font-family: Verdana;
+	background-color: lightgrey;
+}
+
+a{
+	text-decoration: none;
+}
+
+/* skapar en mouse over effekt*/
+a :hover{
+	text-decoration: underline;
+	color: red;
+}
+
+body, p{
+	font-size: 14px;
+}
+
+#hej{
+	background-color: pink;
+}
+
+.tjoflöjt{
+	background-color: yellow;
+}
+
+*{
+	border: 1px purple dotted;
+}
+
+.cssbild{
+	width: 200px;
+}
+.cssbild2{
+	width: 400px;
+}
+.cssbild3{
+	width: 500px;
+}
+
+p a{
+	background-color: purple;
+}
