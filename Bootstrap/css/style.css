@@ -1,0 +1,10 @@
+body{
+	background: aliceblue;
+}
+
+.färg{
+	color: royalblue;
+}
+.card {
+	display:inline-block;
+}
