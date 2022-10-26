@@ -1,0 +1,33 @@
+body{
+	font-family: verdana;
+	background-color: lightgrey;
+}
+
+table, tr, td, th, th{
+	border-collapse: collapse;
+	border: 2px solid black;
+	padding: 5px;
+	margin: 5px;
+}
+
+/*Rubrik*/ th{
+	background-color: #369;
+	color: lightgrey;
+	font-size: 25px;
+}
+
+.radfärg{
+	background-color: orange;
+}
+.radfärg2{
+	background-color: lightyellow;
+}
+
+/*Titelboxar*/ .font{
+	font-size: 18px;
+	background-color: lightblue;
+} 
+
+.star{
+	width: 17px;
+}
