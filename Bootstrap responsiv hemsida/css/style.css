@@ -1,0 +1,32 @@
+body{
+	background-color: lightgrey;
+}
+
+.sectionmargin{
+	margin-top: 50px;
+	margin-bottom: 70px;
+}
+
+.cardmargin{
+	margin-top: 20px;
+}
+
+.ösection{
+	background-color: aliceblue;
+	padding: 30px;
+}
+
+.skugga{
+	box-shadow: 10px 10px 15px grey;
+}
+
+.sidfot{
+	padding: 30px;
+	margin-top: 70px;
+	background-color: darkgrey;
+	color: white;
+}
+
+.kolumnpadding{
+	padding-bottom: 15px;
+}
